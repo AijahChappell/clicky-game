@@ -38,7 +38,7 @@ class App extends React.Component {
     this.checkTopScore(updatedScore);
   };
 
-  checkTopScore = updatedScore => {
+  checkTopScore = (updatedScore) => {
     if (updatedScore > this.state.topScore) {
       this.setState({
         topScore: updatedScore
