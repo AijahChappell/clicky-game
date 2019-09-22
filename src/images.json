@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "../../public/images/BuzzLightyear.jpg",
+        "name": "Buzz"
+    },
+    {
+        "id": 2,
+        "image": "../../public/images/Fry.jpg",
+        "name": "Fry"
+    },
+    {
+        "id": 3,
+        "image": "../../public/images/CharlieBrown.jpg",
+        "name": "Charlie"
+    },
+    {
+        "id": 4,
+        "image": "../../public/images/JohhnyNravo_Daphne.jpg",
+        "name": "Johhny_Daphne"
+    },
+    {
+        "id": 5,
+        "image": "../../public/images/NedFlanders.jpg",
+        "name": "Ned"
+    },
+    {
+        "id": 6,
+        "image": "../../public/images/PeterGriffin.jpg",
+        "name": "Peter"
+    },
+    {
+        "id": 7,
+        "image": "../../public/images/NedFlanders.jpg",
+        "name": "Ned"
+    },
+    {
+        "id": 8,
+        "image": "../../public/images/Krusty.jpg",
+        "name": "Krusty"
+    },
+    {
+        "id": 9,
+        "image": "../../public/images/BartSimpson.jpg",
+        "name": "Bart"
+    },
+    {
+        "id": 10,
+        "image": "../../public/images/MrBurns",
+        "name": "MrBurns"
+    },
+    {
+        "id": 11,
+        "image": "../../public/images/Popeye.jpg",
+        "name": "Popeye"
+    },
+    {
+        "id": 12,
+        "image": "../../public/images/FredFlinstone.jpg",
+        "name": "Fred"
+    }
+]
