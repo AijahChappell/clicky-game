@@ -1,5 +1,5 @@
 import React from "react";
-import images from "../../images.json";
+import images from "../images.json";
 
 function Images (props) {
     function shuffle(arr) {
@@ -10,7 +10,7 @@ function Images (props) {
         return arr;
     }
 
-    const shuffledArr = shiffle(imgs);
+    const shuffledArr = shuffle(images);
 
     return(
         <div className="image-container">

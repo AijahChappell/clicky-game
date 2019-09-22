@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import Instructions from "./components/Instructions";
 import Scores from "./components/Scores";
+import Images from "./components/Images"
 
 class App extends React.Component {
   state = {
@@ -66,7 +67,12 @@ class App extends React.Component {
 
   render() {
     return(
-    
+    <>
+    <Header />
+    <Instructions />
+    <Scores message={this.state.message} currentScore={this.state.currentScore} topScore={this.state.topScore} />
+    <Images handleClick={this.handleClick} />
+    </>
     );
   };
 };
